@@ -4,7 +4,7 @@ import streamlit as st
 # Import langchain stuff 
 
 from langchain import PromptTemplate, LLMChain
-from langchain.llms import GPT4All,
+from langchain.llms import GPT4All
 from langchain.chains import SimpleSequentialChain
 from langchain.memory import ConversationBufferMemory
 
