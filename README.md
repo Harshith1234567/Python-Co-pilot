@@ -1,4 +1,4 @@
-# Building LLM Apps...without OpenAI 
+# Building LLM Apps...without OpenAI 🤖
 ## In this project I built a langchain x Mistral Instruct X streamlit app using GPT4All.
 ## In this app is used for generating python code 
 
