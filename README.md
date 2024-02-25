@@ -1,6 +1,6 @@
-# Building LLM Apps...without OpenAI 🤖
-## In this project I built a langchain x Mistral Instruct X streamlit app using GPT4All.
-## In this app is used for generating python code 
+# Python CO-Pilot using LLama and Mistral 🤖
+### In this project I built a langchain X LLama 2 X Mistral Instruct X streamlit app using GPT4All.
+### In this app is used for generating python code 
 
 # Other References 🔗
 <p>-<a href="https://github.com/nomic-ai/gpt4all/tree/main">GPT4AllReference
